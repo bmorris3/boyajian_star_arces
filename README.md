@@ -7,3 +7,7 @@ The notebook `kic8462852.ipynb` contains code for retrieving my [APO ARC 3.5 m/A
 If you make use of this spectrum in your research, please contact [Brett Morris](mailto:bmmorris@uw.edu) about attribution.
 
 View a static version of the notebook [here](http://nbviewer.jupyter.org/github/bmorris3/boyajian_star_arces/blob/master/kic8462852.ipynb?refresh=True).
+
+### Required packages: 
+astropy, astroquery, specutils, numpy, scipy, matplotlib
+
